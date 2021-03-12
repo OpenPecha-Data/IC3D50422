@@ -5,16 +5,18 @@ source_metadata:
   title: སེར་སྨད་ཟུར་བཀོལ
   author: ''
   volumes:
-    039f71934d664bfd86d385243b8b1710:
+    3fc4951cb0214c32b385d7f85caf484d:
       image_group_id: I1KG4828
-      title: ''
+      title: Volume 1 of ser smad zur bkol
       volume_number: 1
       total_pages: 472
-    e03ec8b0afd74b30a0347029525f93eb:
+      base_file: v001.txt
+    1cd28328338d48ffbd00e26a73f350ef:
       image_group_id: I1KG4829
-      title: ''
+      title: Volume 2 of ser smad zur bkol
       volume_number: 2
       total_pages: 316
+      base_file: v002.txt
 ebook_metadata:
   title: སེར་སྨད་ཟུར་བཀོལ
   author: ''
